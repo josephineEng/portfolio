@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "JOSEPHINE BONKA",
+    "occupation": "Python developer",
+    "description": "I develop in Javascript and python",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am BONKA JOSEPHINE! . I've been coding for over 2. I’m a passionate React Developer . I always try to grab the new features of technology. I started my coding journey 2019 December and learned a lot of new technologies. I was dedicated to giving my full effort for completing my projects and I have completed them.",
+    "contactmessage": "Get in touch with me !",
+    "email": "josephinebonka123@gmail.com",
+    "phone": "+256753591363",
+    "address": {
+      "street": "Nalika Lane",
+      "city": "Kampala,Uganda",
+      "state": "Kikoni",
+      "zip": "00000"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1Akql7PZi2_LeBNbHArjp2IHFax2SkExW/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/josephine-bonka-250263207",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/JosephineEng2",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/josephineEng",
+        "className": "fa fa-github"
+              }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language  Proficiency AND frameworks",
+    "education": [
+      {
+        "school": "Makerere University - UGANDA",
+        "degree": "Bachelor's Degree, Software",
+        "Year of Study ": "3nd year",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Currently a student",
+        "title": "Student",
+        "years": "August 2019 - Present",
+        "description": "Am working as a Chief Finace Officer at ALFAGIRI INNOVATIONS."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "python",
+        "level": "75%"
+      },
+      {
+        "name": "django",
+        "level": "80%"
+      },
+      {
+        "name": "php",
+        "level": "60%"
+      },
+      {
+        "name": "laravel",
+        "level": "50%"
+      },
+
+      {
+        "name": "AWS",
+        "level": "50%"
+      },
+      {
+        "name": "Firebase",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 MANAGEMENT SYSTEM",
+        "category": "JAVA",
+        "image": "covid.png",
+        "url": ""
+      },
+      {
+        "title": "VOTING APP",
+        "category": "python,DJANGO",
+        "image": "vote.jpg",
+        "url": "https://vote-app-v2.herokuapp.com/"
+      },
+
+      {
+        "title": "COVID-19-TRACKER",
+        "category": "php.Laravel",
+        "image": "cmars.jpg",
+        "url": "https://cmarsproject.herokuapp.com/"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "JOSEPHINE BONKA is the team leader type of person, he's always coming up with several ideas when it comes to tackling problems, maybe one too many ideas haha, he is always up to thinking outside the box that sometimes he may not see the answer right infront of him, but that's okay! This is a clear sign of a man who's passionate about what he does, a man who is curious about anything and everything, a man who doesn't quit until he succeeds. A hardworker by the definition, Bukenya kizza Roland is a joy to work with, sometimes he might need someone to step on the brakes, but most people need someone to step on the gas, and I'd say having too much speed in your field has very little cons and way too many pros.",
+        "user": "mr.Odokonyero Geofrey"
+      },
+      {
+        "text": "JOSEPHINE BONKA is really good at coding. He is one of the best at applying his knowledge to solve problems and always comes up with a good solution. He is really confident and passionate about what he does, which is seen through his work. With his never give up attitude, he always gets things done.Bukenya Kizza Roland is also someone who takes charge of things and is willing to be the one to lead the group. It was really fun working with him and the work always goes smoothly when he’s on the team.!",
+        "user": "Kawala Fridah Josephine"
+      }
+    ]
+  }
+}

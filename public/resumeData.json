@@ -107,14 +107,14 @@
       {
         "title": "VOTING APP",
         "category": "python,DJANGO",
-        "image": "vote.jpg",
+        "image": "vote.JPG",
         "url": "https://vote-app-v2.herokuapp.com/"
       },
 
       {
         "title": "COVID-19-TRACKER",
         "category": "php.Laravel",
-        "image": "cmars.jpg",
+        "image": "cmars.JPG",
         "url": "https://cmarsproject.herokuapp.com/"
       },
       {
@@ -128,7 +128,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "JOSEPHINE BONKA is the team leader type of person, she's always coming up with several ideas when it comes to tackling problems, maybe one too many ideas haha, she is always up to thinking outside the box that sometimes he may not see the answer right infront of her, but that's okay! This is a clear sign of a lady who's passionate about what she does, a man who is curious about anything and everything, a lady who doesn't quit until she succeeds. A hardworker by the definition, Bonka Josephine is a joy to work with, sometimes she might need someone to step on the brakes, but most people need someone to step on the gas, and I'd say having too much speed in your field has very little cons and way too many pros.",
+        "text": "JOSEPHINE BONKA is the team leader type of person, she's always coming up with several ideas when it comes to tackling problems, maybe one too many ideas haha, she is always up to thinking outside the box that sometimes he may not see the answer right infront of her, but that's okay! This is a clear sign of a lady who's passionate about what she does, a lady who is curious about anything and everything, a lady who doesn't quit until she succeeds. A hardworker by the definition, Bonka Josephine is a joy to work with, sometimes she might need someone to step on the brakes, but most people need someone to step on the gas, and I'd say having too much speed in your field has very little cons and way too many pros.",
         "user": "mr.Odokonyero Geofrey"
       },
       {
